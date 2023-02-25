@@ -71,11 +71,11 @@ require (
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/vbauerster/mpb/v7 v7.0.3
 	github.com/viki-org/dnscache v0.0.0-20130720023526-c70c1f23c5d8
-	golang.org/x/crypto v0.0.0-20210616213533-5ff15b29337e
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
+	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20190517181255-950ef44c6e07
-	golang.org/x/sys v0.0.0-20210831042530-f4d43177bf5e
-	golang.org/x/term v0.0.0-20201126162022-7de9c90e9dd1
+	golang.org/x/sys v0.5.0
+	golang.org/x/term v0.5.0
 	google.golang.org/api v0.5.0
 	gopkg.in/kothar/go-backblaze.v0 v0.0.0-20210124194846-35409b867216
 	xorm.io/xorm v1.0.7
